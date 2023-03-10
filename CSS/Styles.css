@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5em;
+    
+
+}
+
+inputs {
+    width: 220px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(59, 165, 192);
+}
